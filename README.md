@@ -1,2 +1,2 @@
 # CurrencyConverter
-Converts USD into another. Pretty simple.
+Converts USD into another currency. Pretty simple.
